@@ -1,3 +1,5 @@
+# HASHMAP
+
 ```Python
 #python
 {}.get("augusto") => "azul"

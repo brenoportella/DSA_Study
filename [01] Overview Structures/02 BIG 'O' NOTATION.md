@@ -1,4 +1,7 @@
+# BIG 'O' NOTATION
+
 BIG O Notation serve para compreender tanto a complexidade temporal quanto a complexidade espacial de um algoritmo.
+
 #### Complexidade Temporal
 
 Dado o input de um algoritmo, tipo um array, o *big O* vai dizer quanto tempo vai levar para executar uma vez proporcionalmente ao tamanho do input.

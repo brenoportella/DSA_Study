@@ -1,3 +1,5 @@
+# LINKED LIST
+
 A linked list não está sequencialmente alocada na memória. É uma lista de itens não sequenciais, onde o primeiro item aponta para o endereço do segundo item.
 
 Caso os ponteiros apontem em ambas as direções, ou seja, tanto para o item a seguir como para o item anterior, ela deixa de ser uma Single Linked List (onde item aponta apenas para o próximo) e passa ser uma Double Linked List (onde o item aponta para o próximo e para o anterior).
